@@ -6,10 +6,9 @@ I am passionnate about web technologies as well as lower level programming in C 
 - 🔭 I’m currently working on [Steam2Gether](https://github.com/AnthonyBerisha/steam2gether-react)
 - 🌱 I’m currently learning ReactJS and really interested in Golang and GraphQL
 - :notebook_with_decorative_cover: You can read my blog posts on [DEV.to](https://dev.to/anthonyberisha), [DevDojo](https://berishaanthony.devdojo.com/), [Hashnode](https://anthonyberisha.hashnode.dev/)
-- I am open to job opportunities in full stack development
 
 ## My stack
-- Javascript => VueJS, ReactJS, jQuery, NodeJS, Express
+- Javascript => VueJS, ReactJS, jQuery, NodeJS, Express, AdonisJS
 - PHP => Symfony
 - HTML, CSS
 - MySQL / MariaDB
@@ -17,7 +16,7 @@ I am passionnate about web technologies as well as lower level programming in C 
 
 ## Desktop environment + Gear
 - Ubuntu + [Regolith i3](https://regolith-linux.org/)
-- Keychron K2 + Ajazz K870T + Skyloong SK61
+- Keychron K2 + Ajazz K870T + Skyloong SK61 + Leopold FC660M PD
 
 
 <!--
