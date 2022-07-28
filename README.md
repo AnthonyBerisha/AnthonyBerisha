@@ -3,13 +3,15 @@
 My name is Anthony Berisha, I'm a full stack developer from Paris, France.
 I am passionnate about web technologies as well as lower level programming in C and electronics.
 
+<!---
 - 🔭 I’m currently working on [Steam2Gether](https://github.com/AnthonyBerisha/steam2gether-react)
 - 🌱 I’m currently learning ReactJS and really interested in Golang and GraphQL
 - :notebook_with_decorative_cover: You can read my blog posts on [DEV.to](https://dev.to/anthonyberisha), [DevDojo](https://berishaanthony.devdojo.com/), [Hashnode](https://anthonyberisha.hashnode.dev/)
+-->
 
 ## My stack
 - Javascript => VueJS, ReactJS, jQuery, NodeJS, Express, AdonisJS
-- PHP => Symfony
+- PHP => Symfony / Laravel
 - HTML, CSS
 - MySQL / MariaDB
 - Docker
