@@ -13,7 +13,7 @@ I am passionnate about web technologies as well as lower level programming in C 
 
 ## Desktop environment + Gear
 - Ubuntu + [Regolith i3](https://regolith-linux.org/)
-- Keychron K2 + Ajazz K870T + Skyloong SK61 + Leopold FC660M PD
+- CIDOO V75 PRO + Leopold FC660M PD
 
 
 <!--
