@@ -3,7 +3,7 @@
 My name is Anthony Berisha, I'm a full stack developer from Paris, France.
 I am passionnate about web technologies as well as lower level programming in C and electronics.
 
-[Resume](https://github.com/AnthonyBerisha/resume/blob/main/README.md)
+[Resume](https://github.com/AnthonyBerisha/resume/tree/main)
 
 ## My stack
 [![](https://skillicons.dev/icons?i=js,html,css,ts,vuejs,php,symfony,laravel,mysql,go,docker)](https://skillicons.dev)
